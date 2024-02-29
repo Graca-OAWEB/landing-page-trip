@@ -100,7 +100,7 @@ header {
 
 .home {
     width: 100%;
-    min-height: 90vh;
+    height: 90vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -115,7 +115,7 @@ header {
 }
 
 .home-text .text-h4 {
-    font-size: 1.5rem;
+    font-size: 3rem;
     color: var(--white);
     margin-bottom: 1rem;
 }
@@ -126,11 +126,12 @@ header {
     font-style: normal;
     font-size: 4rem;
     margin-bottom: 1rem;
-    line-height: 4rem;
+    line-height: 3rem;
 }
 
 .home-text p {
-    margin-bottom: 4rem;
+    padding: 3rem 0px;
+    /* margin-bottom: 4rem; */
 }
 
 button,

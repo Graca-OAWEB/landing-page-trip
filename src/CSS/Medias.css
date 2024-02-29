@@ -55,7 +55,7 @@
 
  /*----home-----*/
  .home{
- padding: 100px 4rem%;
+ padding: 100px 4rem;
  display: flex;
  flex-direction: column;
  justify-content: center;
@@ -63,18 +63,19 @@
  text-align: center;
  overflow: hidden;
  gap:8rem;
- min-height: 90vh;
+ height: 90vh;
 }
 
 .home-text .text-h4 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
+    line-height: 0.8rem;
 }
 
 .home-text .text-h1 {     
-    font-size: 4rem;
+    font-size: 2.5rem;
 }
 
 .home-text p {
-    margin-bottom: 4rem;
+    margin-bottom: 0.8rem;
 }
 }
