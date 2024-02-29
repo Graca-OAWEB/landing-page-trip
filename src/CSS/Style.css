@@ -19,13 +19,16 @@ body {
     background-color: var(--bg);
 }
 
+
+
+
+
+/*================================== MENU DESKTOP ==================================*/
+
 header {
     height: 10vh;
 }
 
-
-
-/*================================== MENU ==================================*/
 .navigation {
     width: 100%;
     min-height: 10vh;
@@ -166,3 +169,4 @@ button,
 .home-img img {
     width: 70%;
 }
+
