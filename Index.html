@@ -25,20 +25,20 @@
 <body>
     <Header>
         <nav class="navigation">
-        <a href="#" class="logo"><span>l</span><span>o</span><span>g</span><span>o</span></a>
-        <ul class="nav-menu">
-            <li class="nav-item"><a href="#">Home</a></li>
-            <li class="nav-item"><a href="#">Sobre</a></li>
-            <li class="nav-item"><a href="#">Serviços</a></li>
-            <li class="nav-item"><a href="#">Agendamentos</a></li>
-            <li class="nav-item"><a href="#">Contato</a></li>
-        </ul>
-        <div class="menu">
-            <span class="bar"></span>
-            <span class="bar"></span>
-            <span class="bar"></span>
-        </div>
-    </nav>
+            <a href="#" class="logo" alt="Logo" aria-label="Logo"><span>l</span><span>o</span><span>g</span><span>o</span></a>
+            <ul class="nav-menu">
+                <li  class="nav-item" id="nav-item-home"><a href="#" alt="Home" aria-label="Home">Home</a></li>
+                <li  class="nav-item" id="nav-item-about"><a href="#" alt="Sobre" aria-label="Sobre">Sobre</a></li>
+                <li  class="nav-item" id="nav-item-services"><a href="#" alt="Serviços" aria-label="Serviços">Serviços</a></li>
+                <li  class="nav-item" id="nav-item-ag"><a href="#" alt="Agendamentos" aria-label="Agendamentos">Agendamentos</a></li>
+                <li  class="nav-item" id="nav-item-Contact"><a href="#" alt="Contato" aria-label="Contato">Contato</a></li>  
+            </ul>          
+            <div class="menu" tabindex="0" aria-label="Menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
     </Header>
 
     <main>
@@ -47,16 +47,15 @@
   
   -->
   
-        <section class="home">  
-
-        <div class="home-text">
-            <h4 class="text-h4">Bem vindo</h4>
-            <h1 class="text-h1">Lorem ipsum dolor sit, amet consectetur </h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex blanditiis dolores deleniti repudiandae voluptatibus voluptatem temporibus sapiente dolore, quis repellat recusandae laudantium suscipit reprehenderit qui aut nisi animi ea? Voluptatem.</p>
-            <button class="home-btn"><a href="#">agende agora</a></button>
-        </div>
-      
+  <section class="home">
+    <div class="home-text">
+        <h4 class="text-h4">Bem vindo</h4>
+        <h1 class="text-h1">Lorem ipsum dolor sit, amet consectetur </h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex blanditiis dolores deleniti repudiandae voluptatibus voluptatem temporibus sapiente dolore, quis repellat recusandae laudantium suscipit reprehenderit qui aut nisi animi ea? Voluptatem.</p>
+        <button class="home-btn" tabindex="0" aria-label="Agende agora"><a href="#">agende agora</a></button>
+    </div>
 </section>
+
     </main>
     <script src="./src/JS/script.js" defer></script>
 </body>

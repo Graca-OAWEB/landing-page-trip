@@ -118,9 +118,10 @@ header {
 }
 
 .navigation ul {
+    width: 90VW;
     display: flex;
     align-items: center;
-    gap: 5rem;
+    gap: 2rem;
     padding-left: 4rem;
 }
 
