@@ -9,7 +9,7 @@
 
 :root {
     --blue: #048d99;
-    --white: #dde5eb;
+    --white: #deebf5;
     --dark: #001618;
     --bg: #fdfdfd;
 }
@@ -69,7 +69,7 @@ header {
 }
 
 .navigation ul li a:hover {
-    color: #8d5a79;
+    color: #bdcac6;
     cursor: pointer;
 }
 
