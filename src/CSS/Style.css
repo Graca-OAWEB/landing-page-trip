@@ -62,7 +62,7 @@ header {
 
 .navigation ul li a {
     color: var(--white);
-    font-size: 17px;
+    font-size: 1rem;
     font-weight: 500;
     transition: all 0.5s;
     cursor: pointer;
