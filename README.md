@@ -16,28 +16,25 @@ Landing page responsiva - Trip
 </tr>
 
 <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-
-
-<td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 
 
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
+<span><b><center>CSS</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
+
+
 </tr>
+
+
 
 
 
